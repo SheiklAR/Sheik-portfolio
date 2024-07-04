@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import {
   MapPinIcon,
   AtSymbolIcon,
-  CalendarIcon,
+  PhoneIcon,
   AcademicCapIcon,
   BriefcaseIcon,
 } from "@heroicons/react/20/solid";
@@ -10,9 +10,9 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 const features = [
   {
-    name: "Age:",
-    description: "24 years old",
-    icon: CalendarIcon,
+    name: "Phone",
+    description: "+919994956242",
+    icon: PhoneIcon,
   },
   {
     name: "Email:",

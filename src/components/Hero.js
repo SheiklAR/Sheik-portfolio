@@ -68,6 +68,14 @@ export default function Hero() {
                 {item.name}
               </Link>
             ))}
+            <a
+              href="https://drive.google.com/file/d/1W3gna-LrmqozfjEey7WwCnauVkQNLznN/view"
+              target="_blank"
+              rel="noreferrer"
+              className="text-sm font-semibold leading-6 cursor-pointer relative w-fit block after:block after:content-[''] after:absolute after:h-[3px] after:bg-current after:w-full after:scale-x-0 after:hover:scale-x-100 after:transition after:duration-300 after:origin-left"
+            >
+              Resume
+            </a>
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
             <label className="swap swap-rotate">

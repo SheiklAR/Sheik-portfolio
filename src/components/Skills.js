@@ -32,7 +32,7 @@ const frontend = [
 ];
 const backend = [
   {
-    name: "NodeJS/Express",
+    name: "NodeJS/ExpressJS",
     value: 80,
     icon: CheckCircleIcon,
   },
@@ -48,12 +48,17 @@ const backend = [
   },
   {
     name: "APIs",
-    value: 20,
+    value: 60,
     icon: CheckCircleIcon,
   },
   {
     name: "MongoDB",
     value: 70,
+    icon: CheckCircleIcon,
+  },
+  {
+    name: "Fast API/ Flask",
+    value: 30,
     icon: CheckCircleIcon,
   },
   {

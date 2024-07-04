@@ -1,46 +1,9 @@
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import projects from "../data.json"
 
-const projects = [
-  {
-    id: 1,
-    name: "Sprinkles",
-    href: "#",
-    imageSrc:
-      "https://fastly.picsum.photos/id/23/3887/4899.jpg?hmac=2fo1Y0AgEkeL2juaEBqKPbnEKm_5Mp0M2nuaVERE6eE",
-    used: "ReactJS, TailwindCSS",
-    description: "A restaurant website.",
-  },
-  {
-    id: 2,
-    name: "Paper Bag",
-    href: "#",
-    imageSrc:
-      "https://fastly.picsum.photos/id/3/5000/3333.jpg?hmac=GDjZ2uNWE3V59PkdDaOzTOuV3tPWWxJSf4fNcxu4S2g",
-    used: "ReactJS, TailwindCSS",
-    description: "An online shopping website.",
-  },
-  {
-    id: 3,
-    name: "My Blogs",
-    href: "#",
-    imageSrc:
-      "https://fastly.picsum.photos/id/447/1280/853.jpg?hmac=4DUUCOsHRIoYbNrPRYEUHOW7wCjM7TROrTrYFivtdPw",
 
-    used: "ReactJS, TailwindCSS",
-    description: "A personal blogging website.",
-  },
-  {
-    id: 4,
-    name: "Canopy",
-    href: "#",
-    imageSrc:
-      "https://fastly.picsum.photos/id/366/4000/3000.jpg?hmac=zphhHOH9ofToN2jNHd8z-nc98NrBd8y2okWXEXetLDg",
-    used: "ReactJS, TailwindCSS",
-    description: "An online educational website.",
-  },
-];
 
 export default function Projects() {
   useEffect(() => {
@@ -82,9 +45,11 @@ export default function Projects() {
             </div>
           ))}
         </div>
+        {/*
         <div className="mt-16 flex justify-center">
           <button className="btn btn-outline">View More</button>
         </div>
+        */}
       </div>
     </div>
   );

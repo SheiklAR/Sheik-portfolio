@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Image Gallery",
+      "href": "https://imagegallerypixabay.netlify.app/",
+      "imageSrc":
+        "/images/image-gallery.png",
+      "used": "ReactJS, TailwindCSS, Pixabay API",
+      "description": "Image gallery with search functionality"
+    },
+    {
+      "id": 2,
+      "name": "Course Search",
+      "href": "https://course-directory-three-pink.vercel.app/",
+      "imageSrc":
+        "/images/course-search.png",
+      "used": "NextJS, CSS",
+      "description": "course search and different routes handling."
+    },
+   
+    {
+      "id": 3,
+      "name": "Job Serach",
+      "href": "https://week-day-job-cards.netlify.app/",
+      "imageSrc":
+        "/images/week-day.png",
+      "used": "ReactJS, CSS, Material UI",
+      "description": "Job cards with serach filter"
+    },
+    {
+      "id": 4,
+      "name": "Visual Engineer Portfolio",
+      "href": "https://portfolio1101.netlify.app/",
+      "imageSrc":
+        "/images/portfolio.png",
+      "used": "ReactJS, TailwindCSS",
+      "description": "Visual Engineer Portfolio website"
+    }
+   
+]

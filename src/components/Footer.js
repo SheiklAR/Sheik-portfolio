@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <div className="text-lg text-center relative isolate px-6 py-24 lg:px-8">
+    <div className="text-lg text-center relative isolate px-6 py-24 lg:px-8" id="contact">
       <div className="mt-10 flex items-center justify-center gap-x-4">
         <a href="https://linkedin.com/in/sheiklar" target="_blank" rel="noreferrer">
         <button className="btn btn-outline btn-square">
@@ -40,6 +40,8 @@ export default function Footer() {
         </button>
         </a>
       </div>
+      <p className="font-bold mt-3"><a href="mailto:sheikabdulrahman2000@gmail.com">Email: sheikabdulrahman2000@gmail.com</a></p>
+      <p className="font-bold mt-3"><a href="tel:+919994956244">Phone: +919994956242</a></p>
       <p className="mt-3 text-sm">
         Created  by <span className="font-bold">Sohom Mondal</span>
       </p>
