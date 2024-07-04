@@ -5,17 +5,12 @@ import "aos/dist/aos.css";
 
 const frontend = [
   {
-    name: "HTML/CSS",
+    name: "React",
     value: 80,
     icon: CheckCircleIcon,
   },
   {
-    name: "JavaScript",
-    value: 70,
-    icon: CheckCircleIcon,
-  },
-  {
-    name: "React",
+    name: "TailwindCSS",
     value: 80,
     icon: CheckCircleIcon,
   },
@@ -25,20 +20,25 @@ const frontend = [
     icon: CheckCircleIcon,
   },
   {
-    name: "TailwindCSS",
+    name: "JavaScript",
+    value: 70,
+    icon: CheckCircleIcon,
+  },
+  {
+    name: "HTML/CSS",
     value: 80,
     icon: CheckCircleIcon,
   },
 ];
 const backend = [
   {
-    name: "NodeJS",
-    value: 30,
+    name: "NodeJS/Express",
+    value: 80,
     icon: CheckCircleIcon,
   },
   {
     name: "Python",
-    value: 75,
+    value: 80,
     icon: CheckCircleIcon,
   },
   {
@@ -53,11 +53,11 @@ const backend = [
   },
   {
     name: "MongoDB",
-    value: 40,
+    value: 70,
     icon: CheckCircleIcon,
   },
   {
-    name: "GraphQL",
+    name: "Java",
     value: 30,
     icon: CheckCircleIcon,
   },

@@ -11,17 +11,17 @@ import "aos/dist/aos.css";
 const features = [
   {
     name: "Age:",
-    description: "18 years old",
+    description: "24 years old",
     icon: CalendarIcon,
   },
   {
     name: "Email:",
-    description: "name@example.com",
+    description: "sheikabdulrahman2000@gmil.com",
     icon: AtSymbolIcon,
   },
   {
     name: "Location:",
-    description: "India, Earth",
+    description: "Ammapttinam, Tamil Nadu, India",
     icon: MapPinIcon,
   },
 ];
@@ -44,23 +44,15 @@ export default function About() {
                 About Me
               </p>
               <p className="mt-6 text-lg leading-8" data-aos="fade-right">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-                suscipit lobortis nisi, consequat semper lacus tempor sit amet.
-                Sed elit orci, pretium sed velit sit amet, venenatis pretium
-                magna. Nam pharetra dictum urna, non vestibulum mauris vulputate
-                ut. Sed eros nisi, dapibus vitae consequat non, mollis et
-                tortor. Maecenas bibendum nunc eu cursus maximus. Fusce
-                ultricies ornare neque, vel varius libero euismod eget. Nulla
-                sodales blandit lacus, id maximus quam interdum in. Morbi eu
-                velit ut mi semper sollicitudin finibus aliquam nisi.
-                Pellentesque habitant morbi tristique senectus et netus et
-                malesuada fames ac turpis egestas. Ut accumsan faucibus urna vel
-                placerat. Donec euismod dui enim, tincidunt suscipit mauris
-                lacinia vel. Fusce eget risus eget leo euismod porta. Aliquam
-                dapibus sapien vitae eros pulvinar, in auctor ligula porta. Nam
-                ac porttitor risus, nec blandit nulla. Nam erat erat, venenatis
-                quis scelerisque nec, rhoncus id mi. Suspendisse molestie nibh
-                purus, quis semper tellus pulvinar eget.
+              Hi, I'm Sheik Abdul Rahman, a computer science graduate and a dedicated full stack developer with a strong foundation in both frontend and backend technologies. I've completed 7+ personal projects, showcasing my ability to design and implement comprehensive web applications.
+
+In addition to my project experience, I have a solid understanding of data structures and algorithms (DSA), demonstrated by solving over 80 problems on LeetCode. My recent projects include developing an image search feature using the Pixabay API and creating a seamless data-fetching system for displaying repository information.
+
+I am always eager to learn and tackle new challenges, as seen in my successful resolution of technical issues like SWC binary compatibility. I am also passionate about cricket, which helps me maintain a balanced and focused mindset.
+
+Currently, I am seeking opportunities to advance my career in frontend development, having applied for a Frontend Development Intern position at 9AI. My goal is to contribute to innovative projects and continue growing as a developer.
+
+Feel free to adjust this introduction to better fit your personal style and any additional details you might want to include.
               </p>
             </div>
           </div>
@@ -89,13 +81,13 @@ export default function About() {
                   Experience
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Last 7 months working in personal projects.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Vestibulum vitae augue sit amet ex laoreet euismod sed eu dui.
+                  Last 7 months spend learning new technologies.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Fusce et leo nec elit mollis sollicitudin.
+                  Done projects in both frontend and backend.
                 </p>
               </div>
               <div
@@ -110,13 +102,14 @@ export default function About() {
                   Education
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Jamal Mohamed College, Trichy (Bharathidasan university), Tamil Nadu, India.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Vestibulum vitae augue sit amet ex laoreet euismod sed eu dui.
+                  CGPA: 8.5/10
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Fusce et leo nec elit mollis sollicitudin.
+                  Higher Education: THANTHAI HANS ROEVER HIGHER SECONDARY SCHOOL
+                  Perambalur, Tamil Nadu, India.
                 </p>
               </div>
             </div>
