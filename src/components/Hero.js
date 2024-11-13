@@ -69,7 +69,7 @@ export default function Hero() {
               </Link>
             ))}
             <a
-              href="https://drive.google.com/file/d/1W3gna-LrmqozfjEey7WwCnauVkQNLznN/view"
+              href="https://drive.google.com/file/d/1cCk3MRptl2ifL8FHgfeROr8LmspmAueX/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="text-sm font-semibold leading-6 cursor-pointer relative w-fit block after:block after:content-[''] after:absolute after:h-[3px] after:bg-current after:w-full after:scale-x-0 after:hover:scale-x-100 after:transition after:duration-300 after:origin-left"
