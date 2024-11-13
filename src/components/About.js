@@ -44,15 +44,11 @@ export default function About() {
                 About Me
               </p>
               <p className="mt-6 text-lg leading-8" data-aos="fade-right">
-              Hi, I'm Sheik Abdul Rahman, a computer science graduate and a dedicated full stack developer with a strong foundation in both frontend and backend technologies. I've completed 7+ personal projects, showcasing my ability to design and implement comprehensive web applications.
+              Hi, I'm Sheik Abdul Rahman, a computer science graduate and skilled full stack developer with hands-on experience in designing and building robust web applications. My latest project, Proshop, is a full stack e-commerce platform built with React, Express, MongoDB, Node.js, Redux, Redux Toolkit (RTK), TailwindCSS, Stripe, JWT, Cookie Parser, bcryptjs, multer, and Material UI (MUI). This project showcases my expertise in integrating frontend and backend systems to deliver a seamless user experience, from secure authentication flows to real-time data management and responsive design.
 
-In addition to my project experience, I have a solid understanding of data structures and algorithms (DSA), demonstrated by solving over 80 problems on LeetCode. My recent projects include developing an image search feature using the Pixabay API and creating a seamless data-fetching system for displaying repository information.
+In addition to development, I’m passionate about problem-solving and have tackled over 166 LeetCode problems, including challenging topics like maps, graphs, and trees. These experiences have sharpened my understanding of data structures and algorithms (DSA), helping me develop efficient and scalable solutions in my projects. By solving these complex problems, I’ve strengthened my skills in implementing algorithms for optimal data retrieval, graph traversal, and hierarchical data management—skills that I bring to every project I work on.
 
-I am always eager to learn and tackle new challenges, as seen in my successful resolution of technical issues like SWC binary compatibility. I am also passionate about cricket, which helps me maintain a balanced and focused mindset.
-
-Currently, I am seeking opportunities to advance my career in frontend development, having applied for a Frontend Development Intern position at 9AI. My goal is to contribute to innovative projects and continue growing as a developer.
-
-Feel free to adjust this introduction to better fit your personal style and any additional details you might want to include.
+With a solid foundation in full stack development and a continuous drive for improvement, I'm actively seeking opportunities to contribute my skills to impactful projects and grow further as a developer.
               </p>
             </div>
           </div>
@@ -81,13 +77,16 @@ Feel free to adjust this introduction to better fit your personal style and any 
                   Experience
                 </h2>
                 <p className="mt-3 list-item list-inside">
-                  Last 7 months working in personal projects.
+                  Built fully functional E-commerce Platform
+                  called <a href="https://proshop-smhr.onrender.com/" className="underline font-semibold" target="_blank" rel="noreferrer">
+                   Proshop
+                  </a>.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Last 7 months spend learning new technologies.
+                  Last 11 months working on personal projects and  Learning new technologies and solving <a href="https://leetcode.com/u/sheik08/" className="underline font-semibold" target="_blank" rel="noreferrer">LeetCode</a> problems.
                 </p>
                 <p className="mt-3 list-item list-inside">
-                  Done projects in both frontend and backend.
+                  Worked as an Assistant Manger in my hometown for 2 years
                 </p>
               </div>
               <div

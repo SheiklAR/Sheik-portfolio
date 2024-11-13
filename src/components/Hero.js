@@ -181,7 +181,7 @@ export default function Hero() {
                 </p>
                 <div className="mt-10 flex items-center justify-center gap-x-6">
                   <p>
-                    A Computer Science gradutate who wants to become full stack developer.
+                    Full Stack Developer.
                   </p>
                 </div>
                 <div className="mt-10 flex items-center justify-center gap-x-4">

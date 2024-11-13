@@ -42,8 +42,8 @@
       "href": "https://proshop-smhr.onrender.com/",
       "imageSrc":
         "https://i.imgur.com/jcmGPFk.png",
-      "used": "ReactJS, TailwindCSS",
-      "description": "Visual Engineer Portfolio website"
+      "used": "MERN, Tailwind CSS, Redux, RTK, Stripe, JWT, Cookie parser, bcryptjs, multer, Mui",
+      "description": "Full Stack E-commerce website"
     }
    
 ]
