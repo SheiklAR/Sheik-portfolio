@@ -35,6 +35,15 @@
         "/images/portfolio.png",
       "used": "ReactJS, TailwindCSS",
       "description": "Visual Engineer Portfolio website"
+    },
+    {
+      "id": 5,
+      "name": "E-commerce Platform",
+      "href": "https://proshop-smhr.onrender.com/",
+      "imageSrc":
+        "https://i.imgur.com/jcmGPFk.png",
+      "used": "ReactJS, TailwindCSS",
+      "description": "Visual Engineer Portfolio website"
     }
    
 ]

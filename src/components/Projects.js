@@ -27,7 +27,7 @@ export default function Projects() {
                 <img
                   src={project.imageSrc}
                   alt={project.name}
-                  className="h-full w-full object-cover object-center lg:h-full lg:w-full"
+                  className="h-full w-full object-cover object-top lg:h-full lg:w-full"
                 />
               </div>
               <div className="mt-4 flex justify-between p-4">
